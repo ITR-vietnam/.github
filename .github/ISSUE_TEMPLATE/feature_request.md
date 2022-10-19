@@ -7,22 +7,46 @@ title: ''
 
 ## MongoDB
 
+<!--
+Describe Database schema changes 
+ -->
+
 ```javascript
 
 ```
 
 ## GraphQL
 
+<!--
+Describe graphQL schema changes 
+ -->
+
 ```gql
 ```
 
 ## gRPC
+
+<!--
+Describe gRPC methods and message changes
+ -->
 
 ```proto
 ```
 
 ## APIs
 
-## Environment Variables
+<!--
+Describe the logic changes
+ -->
 
-## Linked Issues
+## Environment variables
+
+<!--
+List the new/changed environment variables (using markdown list indent)
+ -->
+
+## Related Issues
+
+<!--
+URL of the related issues (using markdown list indent)
+ -->
