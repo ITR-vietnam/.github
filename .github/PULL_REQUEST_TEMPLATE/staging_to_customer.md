@@ -1,7 +1,6 @@
 ---
 name: Merge Staging into Customer
-about: New project feature
-description: PR Merge staging into customer before release
+about: PR Merge staging into customer before release
 title: "<Release name> - Merge Staging to Customer"
 labels: ["Release"]
 
