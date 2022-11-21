@@ -2,7 +2,7 @@
 name: Product Feature description
 about: Product Feature description
 title: ''
-labels: ["product"]
+labels: ["product", "architecture-changes"]
 
 ---
 
