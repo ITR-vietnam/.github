@@ -36,7 +36,7 @@ Describe gRPC methods and message changes
 ```proto
 ```
 
-## APIs
+## Implementation
 
 <!--
 Describe the logic changes
