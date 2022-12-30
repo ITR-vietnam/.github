@@ -30,6 +30,9 @@ Describe graphQL schema changes
 Describe gRPC methods and message changes
  -->
 
+- Modify `file_name.proto`
+  - Describe the gRPC methods and message changes
+
 ```proto
 ```
 
